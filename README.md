@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Category-Digital%20Literacy%20%26%20Professional%20Development-blue?style=for-the-badge)
-![Tools](https://img.shields.io/badge/Tools-Canva%20%7C%20GitHub%20%7C%20LinkedIn%20%7C%20Kaggle-blue?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-Canva%20%7C%20GitHub%20%7C%20LinkedIn%20%7C%20Kaggle-orange?style=for-the-badge)
 
 ## 📋 Overview
 
